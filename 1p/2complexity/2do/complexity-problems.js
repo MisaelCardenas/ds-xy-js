@@ -25,4 +25,4 @@
 //   randomName()
 // -> 
 // <- one random name
-// ie name371
+// ie nameXYZ

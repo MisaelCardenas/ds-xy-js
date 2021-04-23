@@ -21,7 +21,7 @@
 
 //3. bubble - your implementation 
 //   sort(o)
-// -> o an object containing random names: either an array of objects or an object of objects
+// -> o an object containing random names
 // <- the random names sorted
 // verify is sorted
 
